@@ -1,9 +1,9 @@
 Symfony possède une importante communauté d'utilisateurs et de développeurs, permettant ainsi
 de trouver de l'aide en cas de problème et de ne pas réinventer la roue en utilisant des bundles existants.
-Toutefois, les bundles de gestion de site de e-commerce déjà développés et présents sur le web étaient
-complexes et n'apportent pas un grand intérêt quant à l'apprentissage du développement avec ce
+Toutefois, les bundles de gestion de site de e-commerce déjà développés et présents sur le web sont
+complexes et n'apportent pas un grand intérêt quant à l'apprentissage du développement avec ce
 framework.
 
-Je fais une modification depuis GitHub, que je vais ensuite récupérer grâce à la commande git pull! 
+Je fais une modification depuis GitHub, que je vais ensuite récupérer grâce à  la commande git pull! 
 
-Apr�s récupération sur ma machine locale, je modifie ce fichier que je renvoie ensuite sur github après un commit!
+Après récupération sur ma machine locale, je modifie ce fichier que je renvoie ensuite sur github!
