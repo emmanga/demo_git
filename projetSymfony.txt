@@ -5,3 +5,5 @@ complexes et n'apportent pas un grand intérêt quant à l'apprentissage du dév
 framework.
 
 Je fais une modification depuis GitHub, que je vais ensuite récupérer grâce à la commande git pull! 
+
+Apr�s récupération sur ma machine locale, je modifie ce fichier que je renvoie ensuite sur github après un commit!
