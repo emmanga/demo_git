@@ -1,1 +1,1 @@
-Ceci est un fichier texte de qualité, que je compte modifer au fil du temps
+Ceci est un fichier texte de qualité, que je compte modifer au fil du temp. Petite modification en locale.
