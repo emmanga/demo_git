@@ -1,5 +1,7 @@
-Symfony possède une importante communauté d'utilisateurs et de développeurs, permettant ainsi
-de trouver de l'aide en cas de problème et de ne pas réinventer la roue en utilisant des bundles existants.
-Toutefois, les bundles de gestion de site de e-commerce déjà développés et présents sur le web étaient
-complexes et n'apportent pas un grand intérêt quant à l'apprentissage du développement avec ce
+Symfony possÃ¨de une importante communautÃ© d'utilisateurs et de dÃ©veloppeurs, permettant ainsi
+de trouver de l'aide en cas de problÃ¨me et de ne pas rÃ©inventer la roue en utilisant des bundles existants.
+Toutefois, les bundles de gestion de site de e-commerce dÃ©jÃ  dÃ©veloppÃ©s et prÃ©sents sur le web Ã©taient
+complexes et n'apportent pas un grand intÃ©rÃªt quant Ã  l'apprentissage du dÃ©veloppement avec ce
 framework.
+
+Je fais une modification depuis GitHub, que je vais ensuite rÃ©cupÃ©rer grÃ¢ce Ã  la commande git pull! 
